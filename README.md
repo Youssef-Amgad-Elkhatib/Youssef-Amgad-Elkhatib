@@ -22,7 +22,7 @@
 
 <br><br>
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
-![](https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false)
+<br>![](https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false)
 
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=aura" height="200em" /><br>
   
