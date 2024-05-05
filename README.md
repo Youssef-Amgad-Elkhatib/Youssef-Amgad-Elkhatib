@@ -1,3 +1,4 @@
+[![MasterHead]("https://www.shutterstock.com/image-photo/robot-hand-ai-artificial-intelligence-600nw-2118695231.jpg")](https://Youssef-Amgad-Elkhatib.github.io)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;Welcome+to+my+profile.;I'm+Youssef+Amgad+Elkhatib.;&center=true&width=500&height=50"></a>
@@ -6,13 +7,15 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Youssef-Amgad-Elkhatib&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 <br>
-- 🔭 I’m currently working on different projects.
-- 🌱 I’m currently learning structured programming using C++.
-- ✨ I'm planning on learning OOP soon and training my problem solving skills.
+
 <br>
 </div><h3 align="left">🌐 Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-amgad-elkhatib-12a011308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Youssef-Amgad-Elkhatib" height="30" width="40" /></a><a href="https://fb.com/Youssef Elkhatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Youssef Elkhatib" height="30" width="40" /></a><a href="https://codeforces.com/profile/0xKrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Youssef_Elkatib" height="30" width="40" /></a></p><br>
+- 🔭 I’m currently working on different projects.<br>
+- 🌱 I’m currently learning structured programming using C++.<br>
+- ✨ I'm planning on learning OOP soon and training my problem solving skills.<br>
+<p align="right"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"width="50%" />
 
 # 💻 Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
