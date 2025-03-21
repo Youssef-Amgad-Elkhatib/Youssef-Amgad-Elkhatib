@@ -30,7 +30,8 @@
 <br><br><img src="https://i.gifer.com/origin/dc/dc412623146610157eb73e727f4d16bc.gif" width="100%" height="100" />
 <br><br>
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-<h1 align="center"><br>I am a student at the Faculty of Computers and Artificial Intelligence and a member of the Cairo Coders Club (currently level 1).<br>I am interested in learning about AI and developing skills in programming and problem solving. I also aim to compete in Global programming competitions.<br> My goal is to own a company with international branches all across the world specializing in making robots, that can feel and have human emotions, responsible for taking care of children's, the sick's, and the elderly's health and mental state.
+<h1 align="center"><br>I am a student at the Faculty of Computers and Artificial Intelligence and a member of the Cairo Coders Club. I am interested in learning about AI and developing skills in programming and problem solving. My goal is to own a company with international branches all across the world specializing in making robots, that can feel and have human emotions, responsible for taking care of children's, the sick's, and the elderly's health and mental state.
+I recently began my journey in the field of AI, Web Development and hoping to learn graphic design beside it.
 <br><br>
 
 
