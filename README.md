@@ -32,7 +32,7 @@
 </p>
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=algolia" height="200em" /><br>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Amgad-Elkhatib&theme=algolia)](https://github.com/Youssef-Amgad-Elkhatib/github-readme-activity-graph)<p align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Amgad-Elkhatib&theme=ambient_gradient)](https://github.com/Youssef-Amgad-Elkhatib/github-readme-activity-graph)<p align="center">
 <br><br><img src="https://i.gifer.com/origin/dc/dc412623146610157eb73e727f4d16bc.gif" width="100%" height="100" />
 <br><br>
 # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
