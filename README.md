@@ -24,8 +24,12 @@
 
 <br><br>
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
-<br>![](https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=donut&theme=blue-green&hide_border=false)](https://github.com/Youssef-Amgad-Elkhatib/github-readme-stats)<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Amgad-Elkhatib&theme=blue-green&hide_border=false)
-
+</br>
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&locale=en&theme=dark" alt="My GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark" alt="Streak Stats" />
+</p>
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=aura" height="200em" /><br>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Amgad-Elkhatib&theme=high-contrast)](https://github.com/Youssef-Amgad-Elkhatib/github-readme-activity-graph)<p align="center">
