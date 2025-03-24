@@ -47,11 +47,11 @@
 </div>
 
 <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Amgad-Elkhatib&theme=algolia"  height="170em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Amgad-Elkhatib&theme=algolia" height="170em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Amgad-Elkhatib&theme=algolia"  height="160em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Amgad-Elkhatib&theme=algolia" height="160em" />
   </br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Amgad-Elkhatib&theme=algolia" height="170em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=algolia" height="167em" /><br>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Amgad-Elkhatib&theme=algolia" height="160em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=algolia" height="157em" /><br>
 </p>
 
   
