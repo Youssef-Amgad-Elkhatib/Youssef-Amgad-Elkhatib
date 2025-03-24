@@ -66,7 +66,7 @@
 
 
 <div>
-<h2 align="right">✨🚀 Always learning, always growing! 🚀✨</h2>
+<h2 align="right">✨🚀 Always learning, always growing! 🚀✨  </h2>
 </div>
 </br>
 </br>
