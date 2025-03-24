@@ -36,13 +36,13 @@
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 </br>
-<p align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&show_icons=true&locale=en&theme=algolia" alt="My GitHub Stats" />
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Amgad-Elkhatib&theme=algolia" alt="Streak Stats" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&theme=algolia" alt="Top Languages" />
+<p>
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&show_icons=true&locale=en&theme=algolia" alt="My GitHub Stats" />
+    <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Amgad-Elkhatib&theme=algolia" alt="Streak Stats" />
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&theme=algolia" alt="Top Languages" />
     <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+    </div>
 </p>
 <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Amgad-Elkhatib&theme=algolia"  height="170em" />
