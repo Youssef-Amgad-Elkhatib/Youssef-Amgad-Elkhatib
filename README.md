@@ -1,7 +1,10 @@
 
 <p align="center"><img src="https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-robot-blue-light-technology-artificial-intelligence-future-robot-image_2199774.jpg"width="100%" />
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;Welcome+to+my+Profile!;I'm+Youssef+Amgad+Elkhatib!;A+Student+at+FCAI-CU!;Dreaming+about+becoming+a+data+scientist+and+analyst!;As+well+as+becoming+a+front-end+web+developer!&center=true&width=600&height=50"></a>
+<p>
+  <p align="center"><h2 align="center">Hi👋 Welcome to my Profile!</h2></p>
+  <div align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Youssef+Amgad+Elkhatib!;A+Student+at+FCAI-CU!;Dreaming+about+becoming+a+data+scientist+and+analyst!;As+well+as+becoming+a+front-end+web+developer!&center=true&width=600&height=50"></a>
+  </div>  
 </p><br><br><br><br>
 
 ![](https://komarev.com/ghpvc/?username=Youssef-Amgad-Elkhatib&abbreviated=true)
