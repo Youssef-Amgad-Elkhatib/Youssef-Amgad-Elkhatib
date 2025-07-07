@@ -49,7 +49,8 @@
 <strong>I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:</strong>
 </br>
 </br>
- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="350em" width="300em" >
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="300em" width="200em" >
+
 
 ### 📊 **Data Science & Analysis**  
 🔹 Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊  
@@ -66,12 +67,15 @@
 
 ### 🔭 On the Horizon
 
-🔹 Portfolio Project 🗃️ | FinTrack Project 💰 | Backend & APIs 💼 | Board Games Project 🎲
+🔹 Portfolio Project 🗃️ | FinTrack Project 💰 | Backend & APIs 📦 | Board Games Project 🎲
 
 
-
+<br>
+<br>
 <div>
-<h2 align="right">✨🚀 Always learning, always growing! 🚀✨  </h2>
+  
+   
+<h2 align="center">✨🚀 Always learning, always growing! 🚀✨  </h2>
 </div>
 </br>
 </br>
