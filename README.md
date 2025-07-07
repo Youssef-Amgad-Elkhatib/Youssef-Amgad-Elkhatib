@@ -60,8 +60,13 @@
 ### 🎨 **Frontend Web Development**  
 🔹 HTML5 🌐 | CSS3 💅 | JavaScript ⚡  
 
-### 🛠️ **Upcoming Learning Goals**  
-🔹 Django 🐍 (Web Framework) | More AI Courses 🤖
+### 🛠️ Upcoming Learning Goals 
+
+🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures ⚙️ | Real-world Projects 💼
+
+### 🔭 On the Horizon
+
+🔹 Portfolio Project 🗃️ | FinTrack Project 💰 | Backend & APIs 💼 | Board Games Project 🎲
 
 
 
