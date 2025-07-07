@@ -71,7 +71,7 @@
 </br>
 </br>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics
 </br>
 <p align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&show_icons=true&locale=en&theme=algolia" alt="My GitHub Stats" />
