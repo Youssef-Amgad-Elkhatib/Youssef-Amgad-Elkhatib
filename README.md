@@ -37,10 +37,10 @@
  <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
  <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
  <!-- BEGIN YOUTUBE-CARDS -->
- [![Visual Vortex Photoshop Application](https://ytcards.demolab.com/?id=IqyvwpV0X2A&title=Visual+Vortex+Photoshop+Application&lang=en&timestamp=1728476982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=5&duration=1155 "Visual Vortex Photoshop Application")](https://www.youtube.com/watch?v=IqyvwpV0X2A&t=7s)
- [![Car Dealership System](https://ytcards.demolab.com/?id=UOt4hgVDt0c&title=Car+Dealership+System&lang=en&timestamp=1740230982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=5&duration=1420 "Car Dealership System")](https://www.youtube.com/watch?v=UOt4hgVDt0c)
+ [![Visual Vortex Photoshop Application](https://ytcards.demolab.com/?id=IqyvwpV0X2A&title=Visual+Vortex+Photoshop+Application&lang=en&timestamp=1728476982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=1155 "Visual Vortex Photoshop Application")](https://www.youtube.com/watch?v=IqyvwpV0X2A&t=7s)
+ [![Car Dealership System](https://ytcards.demolab.com/?id=UOt4hgVDt0c&title=Car+Dealership+System&lang=en&timestamp=1740230982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=1420 "Car Dealership System")](https://www.youtube.com/watch?v=UOt4hgVDt0c)
 
-[![Click & Cook Website](https://ytcards.demolab.com/?id=MPHPSIXEJZU&title=Click+%26+Cook+Website&lang=en&timestamp=1753746000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=5&duration=617 "Click & Cook Website")](https://www.youtube.com/watch?v=MPHPSIXEJZU)
+[![Click & Cook Website](https://ytcards.demolab.com/?id=MPHPSIXEJZU&title=Click+%26+Cook+Website&lang=en&timestamp=1753746000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=617 "Click & Cook Website")](https://www.youtube.com/watch?v=MPHPSIXEJZU)
 
  <!-- END YOUTUBE-CARDS -->
 </br>
