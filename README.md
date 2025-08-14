@@ -107,8 +107,9 @@
 <br><br><img src="https://miro.medium.com/v2/resize:fit:1360/1*uzVtquVT0jGfbNAf7Qc1UQ.gif" width="100%" height="100" />
 <br><br>
 # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-<h3><br>I am a student at the Faculty of Computers and Artificial Intelligence in Cairo University and a member of the Cairo Coders Club. My goal is to own a company with international branches all across the world specialized in making robots, that can feel and have human emotions, responsible for taking care of children's, the sick's, and the elderly's health and mental state.
-I recently began my journey in the field of AI as a Data Scientist and Analyst as well as Front-End Web Development.</h3>
+<h3><br>I am a third-year student at the Faculty of Computers and Artificial Intelligence in Cairo University currently 2nd in my cohort.
+My goal is to own a company with international branches all across the world specialized in making robots, that can feel and have human emotions, responsible for taking care of children's, the sicks', and the elderly's health and mental state.
+I am deeply immersed in the world of AI. As I continue my studies, I'm eager to push the boundaries of what AI can achieve and to be at the forefront of technological advancements that have a lasting impact.</h3>
 <br><br>
 
 
