@@ -51,6 +51,8 @@
 [![The Unsinkable Ship](https://ytcards.demolab.com/?id=M-NlX0MDmQQ&title=The+Unsinkable+Ship&lang=en&timestamp=1756995583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=157 "The Unsinkable Ship")](https://www.youtube.com/watch?v=M-NlX0MDmQQ)
 
 [![EstimaHome](https://ytcards.demolab.com/?id=Ef8fKAyHG_4&title=EstimaHome&lang=en&timestamp=1760390969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=146 "EstimaHome")](https://www.youtube.com/watch?v=Ef8fKAyHG_4)
+[![AIROX](https://ytcards.demolab.com/?id=n-6UMzqv9E4&title=AIROX&lang=en&timestamp=1762040969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=156 "AIROX")](https://www.youtube.com/watch?v=n-6UMzqv9E4)
+
 
  <!-- END YOUTUBE-CARDS -->
 </br>
