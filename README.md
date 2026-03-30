@@ -1,4 +1,4 @@
-<p align="center"><img src="https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-robot-blue-light-technology-artificial-intelligence-future-robot-image_2199774.jpg" width="100%" />
+<p align="center"><img src="banner.png" width="100%" />
 <p>
   <p align="center"><h2 align="center">Hi👋 Welcome to my Profile!</h2></p>
   <div align="center">
@@ -145,7 +145,7 @@ I don't just want to write code—I am deeply immersed in pushing the absolute b
 <br><br>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%">
+  <img src="about.png" width="100%">
 </div>
 
 ---
