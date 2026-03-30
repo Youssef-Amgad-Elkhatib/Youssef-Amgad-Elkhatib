@@ -1,0 +1,36 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every midnight
+  workflow_dispatch:    # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Required to save the image to your repo
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Youssef-Amgad-Elkhatib
+          theme: aura
+          no-frame: true
+          margin-w: 15
+          row: 2
+          column: 4
+          output_path: github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add github-trophies.svg
+          git commit -m "Update static trophies [skip ci]" || exit 0
+          git push
