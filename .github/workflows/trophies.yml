@@ -2,18 +2,19 @@ name: Generate Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
-  workflow_dispatch:    # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # Required to save the image to your repo
     
     steps:
+      # UPGRADE 1: Use your Personal Access Token for full permissions
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Generate Trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
@@ -25,12 +26,13 @@ jobs:
           row: 2
           column: 4
           output_path: github-trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
+      # UPGRADE 2: Safe commit process that prevents Exit Code 128
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add github-trophies.svg
-          git commit -m "Update static trophies [skip ci]" || exit 0
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update static trophies" || echo "No changes to commit"
+          git push origin main
