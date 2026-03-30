@@ -100,13 +100,13 @@
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics & Trophies
 </br>
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Youssef-Amgad-Elkhatib&abbreviated=true&color=fe428e&style=for-the-badge">
 </p>
 <br>
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Amgad-Elkhatib&margin-w=15&row=2&column=4&theme=radical&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=Youssef-Amgad-Elkhatib&theme=radical" alt="Youssef's Trophies" />
 </p>
 
 <!-- STATS -->
@@ -115,10 +115,7 @@
   <img height="165" src="https://streak-stats.demolab.com?user=Youssef-Amgad-Elkhatib&hide_border=true&theme=radical" />
 </p>
 
-<!-- TOP LANGUAGES -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&hide_border=true&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Youssef-Amgad-Elkhatib/Youssef-Amgad-Elkhatib/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
@@ -140,6 +137,7 @@
 <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Amgad-Elkhatib&theme=radical"  height="160em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Amgad-Elkhatib&theme=radical" height="160em" />
+    <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&hide_border=true&theme=radical" />
   <br>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Amgad-Elkhatib&theme=radical" height="160em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Amgad-Elkhatib&theme=radical" height="157em" /><br>
