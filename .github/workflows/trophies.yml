@@ -15,18 +15,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: Youssef-Amgad-Elkhatib
-          theme: aura
-          no-frame: true
-          margin-w: 15
-          row: 2
-          column: 4
-          output_path: github-trophies.svg
-          # FIX: Using the guaranteed built-in token here
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download Trophy SVG
+        run: |
+          # The -f flag prevents it from saving an error page if the server is temporarily down
+          curl -f "https://github-profile-trophy.vercel.app/?username=Youssef-Amgad-Elkhatib&theme=aura&no-frame=true&margin-w=15&row=2&column=4" -o github-trophies.svg
 
       - name: Commit & Push
         run: |
