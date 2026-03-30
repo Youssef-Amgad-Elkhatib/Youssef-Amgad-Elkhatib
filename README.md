@@ -120,18 +120,12 @@
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&hide_border=true&theme=radical" />
 </p>
 
-### 🧊 3D Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Youssef-Amgad-Elkhatib/Youssef-Amgad-Elkhatib/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Youssef-Amgad-Elkhatib/Youssef-Amgad-Elkhatib/output/dist/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Youssef-Amgad-Elkhatib/Youssef-Amgad-Elkhatib/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 <!-- <p align="center">
