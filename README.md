@@ -104,17 +104,36 @@
   <img src="https://komarev.com/ghpvc/?username=Youssef-Amgad-Elkhatib&abbreviated=true&color=fe428e&style=for-the-badge">
 </p>
 <br>
+<!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Amgad-Elkhatib&margin-w=15&row=2&column=4&theme=radical&no-frame=true&cache_seconds=86400" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Amgad-Elkhatib&margin-w=15&row=2&column=4&theme=radical&no-frame=true" />
 </p>
 
+<!-- STATS -->
 <p align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Amgad-Elkhatib&show_icons=true&locale=en&hide_border=true&theme=radical&cache_seconds=86400" alt="My GitHub Stats" />
-    <img height="165em" src="https://streak-stats.demolab.com/?user=Youssef-Amgad-Elkhatib&hide_border=true&theme=radical&cache_seconds=86400" alt="Streak Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Youssef-Amgad-Elkhatib&show_icons=true&locale=en&hide_border=true&theme=radical" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Youssef-Amgad-Elkhatib&hide_border=true&theme=radical" />
 </p>
 
+<!-- TOP LANGUAGES -->
 <p align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages" />    
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Youssef-Amgad-Elkhatib&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Youssef-Amgad-Elkhatib&theme=radical"/>
+</p>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Youssef-Amgad-Elkhatib/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- <p align="center">
