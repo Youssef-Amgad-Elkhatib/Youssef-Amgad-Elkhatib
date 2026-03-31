@@ -2,7 +2,7 @@
 <p>
   <p align="center"><h2 align="center">Hi👋 Welcome to my Profile!</h2></p>
   <div align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Youssef+Amgad+Elkhatib!;A+Student+at+FCAI-CU!;Dreaming+about+becoming+a+data+scientist+and+analyst!;As+well+as+becoming+a+front-end+web+developer!&center=true&width=600&height=50"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Youssef+Amgad+Elkhatib!;A+Student+at+FCAI-CU!;Dreaming+about+becoming+a+data+scientist!;As+well+as+becoming+a+freelance+web+developer!&center=true&width=600&height=50"></a>
   </div>  
 </p>
 
@@ -69,7 +69,7 @@
 <strong>I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:</strong>
 </br>
 </br>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="375em" width="200em" >
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="340em" width="200em" >
 
 
 ### 🧠 **Machine Learning & Deep Learning** 🔹 Computer Vision 👁️ | CNNs 🖼️ | Supervised & Unsupervised Learning 📊 | Feature Engineering 🧹  
